@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Regina 👋
 
 <!--
 **ReginaJM/ReginaJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently studying Front End Development
+
+🎒 I have a background in Cognitive Science and UX Research
+
+💻 I'm looking for community and internships remotely
+
+📫 How to reach me: reg.johansson@gmail.com, https://www.linkedin.com/in/reginajohansson
+
+⚡ Fun fact: Love the outdoors and conversations over coffee
