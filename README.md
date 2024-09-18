@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: reg.johansson@gmail.com, https://www.linkedin.com/in/reginajohansson
 
-⚡ Fun fact: Love the outdoors and conversations over coffee
+⚡ About me: Love the outdoors and conversations over coffee
